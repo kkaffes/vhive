@@ -1,4 +1,4 @@
-module eventing
+module github.com/kkaffes/vhive/utils/benchmarking/eventing
 
 go 1.16
 
